@@ -1,2 +1,2 @@
 # myproject
-web
+like article 
